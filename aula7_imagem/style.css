@@ -1,0 +1,16 @@
+div {
+  background-color: black;
+  align-items: center;
+}
+.header {
+  justify-content: space-between;
+}
+h1 {
+  color: red;
+}
+.img-thumbnail {
+  width: 4rem;
+}
+.buttons {
+  justify-content: lef;
+}
